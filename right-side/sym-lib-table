@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "right-side")(type "KiCad")(uri "${KIPRJMOD}/right-side.kicad_sym")(options "")(descr ""))
+)
