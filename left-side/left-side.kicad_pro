@@ -447,7 +447,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "left-side.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
